@@ -5,50 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Facilize - Assistente Virtual para Inclusão Digital de Idosos</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #FDF6EF; /* Bege claro */
-            margin: 0;
-            padding: 0;
-            color: #2B5C8C; /* Azul escuro */
-        }
-        header {
-            text-align: center;
-            padding: 2rem;
-            background-color: #A4D3F4; /* Azul claro */
-            color: #2B5C8C; /* Azul escuro */
-        }
-        header img {
-            width: 150px;
-            margin-bottom: 1rem;
-        }
-        header h1 {
-            margin: 0.5rem 0;
-        }
-        section {
-            max-width: 800px;
-            margin: 2rem auto;
-            padding: 1rem;
-            background-color: white;
-            border-radius: 8px;
-            box-shadow: 0 2px 10px rgba(43, 92, 140, 0.1); /* Sombra com azul escuro */
-        }
-        section h2 {
-            color: #F58CA8; /* Rosa suave */
-        }
-        section p {
-            margin: 1rem 0;
-            line-height: 1.6;
-        }
-        footer {
-            text-align: center;
-            padding: 1rem;
-            background-color: #A4D3F4; /* Azul claro */
-            color: #2B5C8C; /* Azul escuro */
-            margin-top: 2rem;
-        }
-    </style>
+
 </head>
 <body>
 
